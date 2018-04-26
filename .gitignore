@@ -1,0 +1,15 @@
+# Editors
+.*.swp
+*~
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Other
+/Makefile
+/data/
